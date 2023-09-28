@@ -1,2 +1,7 @@
 # Cat-photo-app
-Cat photo app using HTML
+
+👋 Hi there!
+
+This is my HTML sample project, crafted while practicing on FreeCodeCamp. Check it out! 😊
+
+Happy coding!
